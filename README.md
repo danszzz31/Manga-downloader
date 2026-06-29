@@ -13,7 +13,7 @@ cd d:\mangadownv2
 .\mangadown.exe
 ```
 
-Linux/termux:
+Linux:
 ```
 cd d:/mangadownv2
 ./mangadown.exe
