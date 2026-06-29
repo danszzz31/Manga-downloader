@@ -15,8 +15,8 @@ cd d:\mangadownv2
 
 Linux/termux:
 ```
-cd d:\mangadownv2
-.\mangadown.exe
+cd d:/mangadownv2
+./mangadown.exe
 ```
 
 ### 2. Cari Manga
