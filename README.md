@@ -62,12 +62,12 @@ Ketik nomor bahasa yang kamu mau lalu **Enter**.
 
 maksudnya **berapa chapter yang di-download bersamaan**.
 
-| Angka | Cocok untuk |
-|-------|-------------|
-| `1`  | Koneksi lemot / tidak stabil |
-| `5`  | Koneksi standar / default |
-| `10` | Koneksi kencang / WiFi stabil |
-| `20` | Koneksi super kencang |
+| Number | Cocok untuk |
+|--------|-------------|
+|  `1`   | Koneksi lemot / tidak stabil |
+|  `5`   | Koneksi standar / default |
+|  `10`  | Koneksi kencang / WiFi stabil |
+|  `20` |  Koneksi super kencang |
 
 > **⚠️ Tips**: Jika koneksi kamu lagi lemot, pakai `3` atau `5` aja biar nggak timeout. Kalau kenceng, `10` juga oke.
 
